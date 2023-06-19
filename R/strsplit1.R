@@ -1,4 +1,4 @@
-#' split string an
+#' split string
 #'
 #' returns a vector of characters in the strong
 #'
